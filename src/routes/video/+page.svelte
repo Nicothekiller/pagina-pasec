@@ -1,0 +1,25 @@
+<div class="container mx-auto p-8">
+	<h1 class="text-4xl font-bold text-gray-900 mb-8 text-center">Video Carta</h1>
+
+	<div class="bg-white p-8 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
+		<h2 class="text-3xl font-bold text-gray-800 mb-4">Mi Video Carta Personal</h2>
+		<div class="space-y-4 text-gray-700 leading-relaxed">
+			<p>
+				Aquí podrás encontrar mi video carta dirigida a mí mismo dentro de 10 años. Este video es
+				una reflexión sobre mi experiencia en el servicio comunitario y cómo ha influido en mis
+				metas personales y profesionales.
+			</p>
+			<div class="video-container aspect-video w-full">
+				<iframe
+					class="w-full h-full"
+					src="https://www.youtube.com/embed/IGps4xGv1xw?si=v9nySWKJrJePBzb9"
+					title="Video carta"
+					frameborder="0"
+					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+					referrerpolicy="strict-origin-when-cross-origin"
+					allowfullscreen
+				></iframe>
+			</div>
+		</div>
+	</div>
+</div>

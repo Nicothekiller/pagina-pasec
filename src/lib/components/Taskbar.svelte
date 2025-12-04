@@ -1,5 +1,4 @@
 <script lang="ts">
-	// You can add any script logic here if needed
 </script>
 
 <nav class="bg-sky-600 text-white p-4 shadow-md">

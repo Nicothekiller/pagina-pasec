@@ -4,70 +4,67 @@
 	</h1>
 
 	<div class="grid md:grid-cols-1 lg:grid-cols-3 gap-8">
-		<!-- Valor 1: Honestidad -->
 		<div class="bg-white p-8 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
 			<h2 class="text-3xl font-bold text-gray-800 mb-4">Honestidad</h2>
 			<div class="space-y-4 text-gray-700 leading-relaxed">
 				<p>
 					<strong>¿Por qué es importante?</strong><br />
-					La honestidad es fundamental en mi accionar ciudadano porque construye la base de toda relación
-					de confianza. Ser honesto significa ser transparente y auténtico, lo que permite una comunicación
-					clara y directa. En una comunidad, la honestidad asegura que las acciones se basen en la verdad
-					y no en intereses ocultos, fomentando un ambiente de seguridad y cooperación donde todos pueden
-					sentirse valorados y escuchados.
+					La honestidad es fundamental en mi accionar ciudadano porque es la base de toda relación de
+					confianza. Ser honesto con todos es lo que permite una comunicación clara y directa. En una
+					sociedad, la honestidad es clave para asegurar que las acciones se basen en la verdad, creando
+					un ambiente de seguridad y cooperación donde todos pueden sentirse valorados y escuchados.
 				</p>
 				<p>
 					<strong>¿Lo aplicaste durante tus horas de servicio? ¿Cómo?</strong><br />
-					Sí, apliqué la honestidad constantemente. Se manifestó en las pequeñas interacciones diarias,
-					como admitir si no sabía la respuesta a una pregunta en lugar de inventar algo, o comunicar
-					de manera clara y sencilla los pasos para usar una herramienta tecnológica. Ser honesto sobre
-					mis capacidades y limitaciones me permitió pedir ayuda cuando era necesario y construir una
-					relación genuina con las personas a las que acompañaba, basada en la confianza mutua.
+					Apliqué la honestidad regularmente. Es una parte importante de las interacciones de la vida
+					diaria, como admitir que no sabía la respuesta a una pregunta, o comunicar de manera clara y
+					sencilla los pasos para usar una herramienta. La honestidad es una parte de la vida diaria,
+					y es lo que me permitió ayudar en mi organización de la mejor manera posible. Sin este valor
+					esta experiencia no hubiera sido la misma.
 				</p>
 			</div>
 		</div>
 
-		<!-- Valor 2: Responsabilidad -->
 		<div class="bg-white p-8 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
 			<h2 class="text-3xl font-bold text-gray-800 mb-4">Responsabilidad</h2>
 			<div class="space-y-4 text-gray-700 leading-relaxed">
 				<p>
 					<strong>¿Por qué es importante?</strong><br />
-					La responsabilidad es el motor de la ciudadanía activa. Implica reconocer que mis acciones (u
-					omisiones) tienen un impacto en mi entorno y asumir un rol proactivo para contribuir positivamente.
-					Ser un ciudadano responsable significa no esperar a que otros solucionen los problemas, sino
-					tomar la iniciativa para mejorar lo que está a mi alcance, entendiendo que soy parte de una
-					red interconectada.
+					La responsabilidad es de suma importancia en la ciudadanía activa, y es un valor que se relaciona
+					directamente con la honestidad. Implica reconocer que mis acciones tienen un impacto en mi alrededor
+					y asumir un rol en contribuir positivamente a la sociedad. Ser un ciudadano responsable significa
+					no esperar a que otros solucionen los problemas, significa mejorar lo que está a mi alcance,
+					entendiendo que mis acciones pueden afectar positivamente al resto.
 				</p>
 				<p>
 					<strong>¿Lo aplicaste durante tus horas de servicio? ¿Cómo?</strong><br />
-					Definitivamente. La responsabilidad se reflejó en acciones concretas como recoger los platos
+					La responsabilidad se reflejó en acciones concretas como recoger los platos y ayudar a limpiar
 					sin que me lo pidieran, mantener las áreas comunes ordenadas o estar siempre atento a las necesidades
-					de las personas. No me limité a cumplir un horario, sino que asumí la responsabilidad de velar
-					por el bienestar y la comodidad de las personas en el lugar, entendiendo que mi rol era contribuir
-					a un ambiente tranquilo y ordenado para todos.
+					de las personas en mi organización. No me sentí conforme con cumplir mi horario, sino que asumí
+					la responsabilidad de estar atento al bienestar de las personas en el lugar, comprendiendo que
+					mi rol era contribuir a un ambiente tranquilo y ordenado para todos.
 				</p>
 			</div>
 		</div>
 
-		<!-- Valor 3: Respeto -->
 		<div class="bg-white p-8 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
 			<h2 class="text-3xl font-bold text-gray-800 mb-4">Respeto</h2>
 			<div class="space-y-4 text-gray-700 leading-relaxed">
 				<p>
 					<strong>¿Por qué es importante?</strong><br />
-					El respeto es el valor que da dignidad a la interacción humana. Es crucial porque reconoce la
-					autonomía, la historia y el valor inherente de cada persona, sin importar su edad o condición.
-					En mi accionar ciudadano, el respeto me guía a tratar a todos como individuos valiosos, a escuchar
-					sus perspectivas con empatía y a actuar de una manera que preserve su independencia y autoestima.
+					El respeto es una parte integral de las relaciones humanas y es un valor que complementa la
+					honestidad y la responsabilidad. Es importante porque reconoce la autonomía y el valor inherente
+					de cada persona. En mi accionar ciudadano, el respeto me guía a tratar a todos como individuos
+					valiosos, a escuchar sus perspectivas y a actuar de una manera que incentive sus características
+					individuales.
 				</p>
 				<p>
 					<strong>¿Lo aplicaste durante tus horas de servicio? ¿Cómo?</strong><br />
-					El respeto fue el valor central de mi servicio. Lo apliqué al dirigirme a las monjas ancianas
-					no como una carga o personas desvalidas, sino como ciudadanas independientes y con una vida
-					llena de experiencias. Se manifestó al ofrecer mi ayuda con la tecnología de una manera que
-					las empoderaba para aprender, en lugar de simplemente hacerlo por ellas. Escuchar sus historias,
-					validar sus sentimientos y tratar su espacio y sus pertenencias con cuidado fueron actos de
+					El respeto fue el valor central de mis horas de servicio. Lo apliqué al dirigirme a las personas
+					de la tercera edad en mi organización no como una carga, sino como ciudadanos independientes
+					y con una vida llena de experiencias. Se mostró al ofrecer mi ayuda con la tecnología de una
+					manera que las impulsaba hacia el aprendizaje, en lugar de simplemente hacerlo por ellas. Escuchar
+					sus historias, validar sus sentimientos y tratar sus pertenencias con cuidado fueron actos de
 					respeto constantes.
 				</p>
 			</div>
