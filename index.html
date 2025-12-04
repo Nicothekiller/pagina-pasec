@@ -5,11 +5,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		
 		<link href="./app/immutable/assets/0.BfIvfuni.css" rel="stylesheet">
-		<link rel="modulepreload" href="./app/immutable/entry/start.DfWWNPMv.js">
-		<link rel="modulepreload" href="./app/immutable/chunks/I01lCgbN.js">
+		<link rel="modulepreload" href="./app/immutable/entry/start.CkWkMZQg.js">
+		<link rel="modulepreload" href="./app/immutable/chunks/CrPwnl5j.js">
 		<link rel="modulepreload" href="./app/immutable/chunks/Ck2Bh_Rt.js">
 		<link rel="modulepreload" href="./app/immutable/chunks/VBUy962F.js">
-		<link rel="modulepreload" href="./app/immutable/entry/app.CXf31P88.js">
+		<link rel="modulepreload" href="./app/immutable/entry/app.CDruzU3M.js">
 		<link rel="modulepreload" href="./app/immutable/chunks/hqg1VrS0.js">
 		<link rel="modulepreload" href="./app/immutable/chunks/DS9E7sFj.js">
 		<link rel="modulepreload" href="./app/immutable/chunks/Bg_WFGmT.js">
@@ -30,15 +30,15 @@
 			
 			<script>
 				{
-					__sveltekit_1cvijx8 = {
+					__sveltekit_1ajxwxo = {
 						base: new URL(".", location).pathname.slice(0, -1)
 					};
 
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("./app/immutable/entry/start.DfWWNPMv.js"),
-						import("./app/immutable/entry/app.CXf31P88.js")
+						import("./app/immutable/entry/start.CkWkMZQg.js"),
+						import("./app/immutable/entry/app.CDruzU3M.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element, {
 							node_ids: [0, 2],
@@ -51,4 +51,18 @@
 			</script>
 		</div>
 	</body>
+	<script type="text/javascript">
+		(function (l) {
+			if (l.search[1] === '/') {
+				var decoded = l.search
+					.slice(1)
+					.split('&')
+					.map(function (s) {
+						return s.replace(/~and~/g, '&');
+					})
+					.join('?');
+				window.history.replaceState(null, null, l.pathname.slice(0, -1) + decoded + l.hash);
+			}
+		})(window.location);
+	</script>
 </html>
