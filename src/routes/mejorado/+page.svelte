@@ -6,7 +6,7 @@
 	<div class="grid md:grid-cols-2 gap-8 items-start max-w-6xl mx-auto">
 		<div class="bg-white p-6 rounded-lg shadow-lg">
 			<img
-				src="/images/educacion.jpg"
+				src="images/educacion.jpg"
 				alt="Evidencia sobre problemas de la educación"
 				class="rounded-lg shadow-md w-full"
 			/>

@@ -1,3 +1,7 @@
+<script lang="ts">
+	import { resolve } from '$app/paths';
+</script>
+
 <div class="container mx-auto p-8">
 	<h1 class="text-5xl font-extrabold text-center text-gray-900 mb-6">
 		Bienvenido al E-Portafolio de PASEC
@@ -16,7 +20,9 @@
 				Una muestra de mi trabajo en clases que muestra un aprendizaje significativo, junto con una
 				explicación detallada de su impacto.
 			</p>
-			<a href="/mejorado" class="text-blue-600 hover:text-blue-800 font-medium mt-4 inline-block"
+			<a
+				href={resolve('/mejorado')}
+				class="text-blue-600 hover:text-blue-800 font-medium mt-4 inline-block"
 				>Ver más &rarr;</a
 			>
 		</div>
@@ -27,7 +33,9 @@
 				Una reflexión de como mi definición sobre la "ciudadanía responsable" a cambiado a través
 				del tiempo.
 			</p>
-			<a href="/ciudadania" class="text-blue-600 hover:text-blue-800 font-medium mt-4 inline-block"
+			<a
+				href={resolve('/ciudadania')}
+				class="text-blue-600 hover:text-blue-800 font-medium mt-4 inline-block"
 				>Ver más &rarr;</a
 			>
 		</div>
@@ -38,7 +46,9 @@
 				Tres valores esenciales que guían mi acción ciudadana y cómo fueron importantes durante mis
 				horas de servicio.
 			</p>
-			<a href="/valores" class="text-blue-600 hover:text-blue-800 font-medium mt-4 inline-block"
+			<a
+				href={resolve('/valores')}
+				class="text-blue-600 hover:text-blue-800 font-medium mt-4 inline-block"
 				>Ver más &rarr;</a
 			>
 		</div>
@@ -49,7 +59,9 @@
 				Dos compromisos específicos como estudiante y futuro profesional, incluyendo indicadores y
 				acciones concretas.
 			</p>
-			<a href="/compromisos" class="text-blue-600 hover:text-blue-800 font-medium mt-4 inline-block"
+			<a
+				href={resolve('/compromisos')}
+				class="text-blue-600 hover:text-blue-800 font-medium mt-4 inline-block"
 				>Ver más &rarr;</a
 			>
 		</div>
@@ -60,7 +72,9 @@
 				Un mensaje en video dirigido a mi yo del futuro, reflexionando sobre el impacto de esta
 				experiencia.
 			</p>
-			<a href="/video" class="text-blue-600 hover:text-blue-800 font-medium mt-4 inline-block"
+			<a
+				href={resolve('/video')}
+				class="text-blue-600 hover:text-blue-800 font-medium mt-4 inline-block"
 				>Ver más &rarr;</a
 			>
 		</div>
